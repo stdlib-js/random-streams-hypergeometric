@@ -20,7 +20,7 @@ limitations under the License.
 
 # Hypergeometric Random Numbers
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Create a [readable stream][readable-stream] for generating pseudorandom numbers drawn from a [hypergeometric][hypergeometric] distribution.
 
@@ -551,8 +551,8 @@ $ random-hypergeometric 5 3 2 -n 10 --seed 1234
 
 ## See Also
 
--   [`@stdlib/random/base/hypergeometric`][@stdlib/random/base/hypergeometric]: hypergeometric distributed pseudorandom numbers.
--   [`@stdlib/random/iter/hypergeometric`][@stdlib/random/iter/hypergeometric]: create an iterator for generating pseudorandom numbers drawn from a hypergeometric distribution.
+-   <span class="package-name">[`@stdlib/random/base/hypergeometric`][@stdlib/random/base/hypergeometric]</span><span class="delimiter">: </span><span class="description">hypergeometric distributed pseudorandom numbers.</span>
+-   <span class="package-name">[`@stdlib/random/iter/hypergeometric`][@stdlib/random/iter/hypergeometric]</span><span class="delimiter">: </span><span class="description">create an iterator for generating pseudorandom numbers drawn from a hypergeometric distribution.</span>
 
 </section>
 
@@ -603,8 +603,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/random-streams-hypergeometric/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/random-streams-hypergeometric?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/random-streams-hypergeometric.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/random-streams-hypergeometric/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
