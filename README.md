@@ -173,16 +173,16 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/random-streams-hypergeometric-cli.svg
 [npm-url]: https://npmjs.org/package/@stdlib/random-streams-hypergeometric-cli
 
-[test-image]: https://github.com/stdlib-js/random-streams-hypergeometric@v0.2.2/actions/workflows/test.yml/badge.svg?branch=v0.2.2
-[test-url]: https://github.com/stdlib-js/random-streams-hypergeometric@v0.2.2/actions/workflows/test.yml?query=branch:v0.2.2
+[test-image]: https://github.com/stdlib-js/random-streams-hypergeometric/actions/workflows/test.yml/badge.svg?branch=v0.2.2
+[test-url]: https://github.com/stdlib-js/random-streams-hypergeometric/actions/workflows/test.yml?query=branch:v0.2.2
 
-[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/random-streams-hypergeometric@v0.2.2/main.svg
-[coverage-url]: https://codecov.io/github/stdlib-js/random-streams-hypergeometric@v0.2.2?branch=main
+[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/random-streams-hypergeometric/main.svg
+[coverage-url]: https://codecov.io/github/stdlib-js/random-streams-hypergeometric?branch=main
 
 <!--
 
-[dependencies-image]: https://img.shields.io/david/stdlib-js/random-streams-hypergeometric@v0.2.2.svg
-[dependencies-url]: https://david-dm.org/stdlib-js/random-streams-hypergeometric@v0.2.2/main
+[dependencies-image]: https://img.shields.io/david/stdlib-js/random-streams-hypergeometric.svg
+[dependencies-url]: https://david-dm.org/stdlib-js/random-streams-hypergeometric/main
 
 -->
 
@@ -193,22 +193,22 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
-[cli-section]: https://github.com/stdlib-js/random-streams-hypergeometric@v0.2.2#cli
-[cli-url]: https://github.com/stdlib-js/random-streams-hypergeometric@v0.2.2/tree/cli
-[@stdlib/random-streams-hypergeometric]: https://github.com/stdlib-js/random-streams-hypergeometric@v0.2.2/tree/main
+[cli-section]: https://github.com/stdlib-js/random-streams-hypergeometric#cli
+[cli-url]: https://github.com/stdlib-js/random-streams-hypergeometric/tree/cli
+[@stdlib/random-streams-hypergeometric]: https://github.com/stdlib-js/random-streams-hypergeometric/tree/main
 
 [umd]: https://github.com/umdjs/umd
 [es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
 
-[deno-url]: https://github.com/stdlib-js/random-streams-hypergeometric@v0.2.2/tree/deno
-[deno-readme]: https://github.com/stdlib-js/random-streams-hypergeometric@v0.2.2/blob/deno/README.md
-[umd-url]: https://github.com/stdlib-js/random-streams-hypergeometric@v0.2.2/tree/umd
-[umd-readme]: https://github.com/stdlib-js/random-streams-hypergeometric@v0.2.2/blob/umd/README.md
-[esm-url]: https://github.com/stdlib-js/random-streams-hypergeometric@v0.2.2/tree/esm
-[esm-readme]: https://github.com/stdlib-js/random-streams-hypergeometric@v0.2.2/blob/esm/README.md
-[branches-url]: https://github.com/stdlib-js/random-streams-hypergeometric@v0.2.2/blob/main/branches.md
+[deno-url]: https://github.com/stdlib-js/random-streams-hypergeometric/tree/deno
+[deno-readme]: https://github.com/stdlib-js/random-streams-hypergeometric/blob/deno/README.md
+[umd-url]: https://github.com/stdlib-js/random-streams-hypergeometric/tree/umd
+[umd-readme]: https://github.com/stdlib-js/random-streams-hypergeometric/blob/umd/README.md
+[esm-url]: https://github.com/stdlib-js/random-streams-hypergeometric/tree/esm
+[esm-readme]: https://github.com/stdlib-js/random-streams-hypergeometric/blob/esm/README.md
+[branches-url]: https://github.com/stdlib-js/random-streams-hypergeometric/blob/main/branches.md
 
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/random-streams-hypergeometric@v0.2.2/main/LICENSE
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/random-streams-hypergeometric/main/LICENSE
 
 [stream]: https://nodejs.org/api/stream.html
 
